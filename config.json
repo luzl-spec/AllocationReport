@@ -1,0 +1,79 @@
+{
+  "site": "cashdash.atlassian.net",
+  "cloud_id": "cashdash.atlassian.net",
+  "anchor_start": "2026-09-30",
+  "sprint_days": 14,
+  "sprint_page": {"id": "7046201354", "title": "Latam team allocation - Sprint"},
+  "aging_page": {"id": "7039647745", "title": "Latam team allocation aging by developer"},
+  "sprint_url": "https://cashdash.atlassian.net/wiki/spaces/CPM/pages/7046201354/Latam+team+allocation+-+Sprint",
+  "aging_url": "https://cashdash.atlassian.net/wiki/spaces/CPM/pages/7039647745/Latam+team+allocation+aging+by+developer",
+  "slack_channel": "C0B4VT5V6NQ",
+  "slack_dm_user": "U09EA24CBNG",
+  "do_not_touch_pages": ["6982336516", "7035125771"],
+  "groups": [
+    {
+      "header": "Luz Lopez",
+      "manager": "Luz Lopez",
+      "slack_label": "Luz Lopez",
+      "projects": ["CLCT"],
+      "devs": [
+        ["Amilcar Rojas Portilla", "f9c3eb47-f12c-4bd0-a65b-1e9b83146dc6"],
+        ["Andres Gonzalez Cardenas", "3ccfbb50-8be1-418c-814c-ba62aca70028"],
+        ["Diana Gómez Orozco", "1a003868-193c-4228-b7f0-fd283304e057"],
+        ["Harold Hurtado Cortes", "e378539a-cca8-4287-8d2c-68551c122885"],
+        ["Jose Ortega Ramirez", "6e8bd7d5-06b3-4802-9d6e-a291673c2b8d"],
+        ["Juan Chitiva Rivera", "d136d2cf-5b2d-4040-8adf-cca207c98c08"],
+        ["Julian Ramirez Osorio", "ddf44dc6-7deb-47f2-b2f4-83dce5c83d7b"],
+        ["Mauricio Rodriguez Gutierrez", "54513a46-022d-43f9-b88b-262ec9eaab3a"],
+        ["Nicolas Patiño Parra", "68699c2d-8ad4-4cdf-b069-7dc1b5e1e122"],
+        ["Juan Nontoa Caballero", "70c86c29-5959-47cc-b02b-bc31c000c249"]
+      ]
+    },
+    {
+      "header": "Michel Meneses",
+      "manager": "Michel Meneses",
+      "slack_label": "Michel Meneses",
+      "projects": ["CLCT"],
+      "devs": [
+        ["Andres Calderon Ortega", "5bf813ae-3f53-47d3-a38d-5093cd49790a"],
+        ["Andres Perez Rueda", "7e824976-2c1e-4da1-ae28-8f0afd3499b3"],
+        ["Diego Ramos Baena", "42bdb7ac-d9a1-4d31-9f47-c692ebfa2b94"],
+        ["Fabian Medina Miranda", "f9990d1e-7adf-43ac-b3c7-f42087cb63ab"],
+        ["Jhonattan Rodriguez Naranjo", "01970591-cf8b-4e39-8015-a0d2fc4323e0"],
+        ["Andres Cantor Urrego", "f82522a1-2f74-42b1-9407-7fd104bbcfde"],
+        ["Paula Medina Diaz", "c69c2c5a-46a1-4bdd-b576-12fd3b924074"],
+        ["Ricardo Urrego", "76be2226-620e-41e0-9beb-dfb7356ab2d2"]
+      ]
+    },
+    {
+      "header": "Milo",
+      "manager": "Milo",
+      "slack_label": "Milo",
+      "projects": ["CLCT"],
+      "devs": [
+        ["Daniel Vargas Ortiz", "f032628b-5f23-45a7-a152-624fca4cba4a"],
+        ["David Espitia Manrique", "e2c0d46a-1575-4a6c-bb61-c8093d955f08"],
+        ["Edson Morelo Janson", "e8bce168-e7a3-4d6a-8467-b4d445d44856"],
+        ["Edward Ramos Perez", "b26911bb-f46d-4b53-b1ec-092c4de37ff2"],
+        ["Jainer Quiceno Rojas", "856abb61-f96d-4c01-82d5-e8cd51950d4f"],
+        ["Jesus Rojas Montenegro", "58c9420a-1139-418b-99ed-bedd17fd45d1"],
+        ["Johnathan Leon Rodriguez", "35f6c986-a540-485c-b259-809899ba702a"],
+        ["Jonathan Prieto Urquijo", "42b5a551-5a38-4506-a12a-a9ff7412fc29"],
+        ["Jonathan Salcedo Diaz", "e95bd581-8e50-44e1-b45e-00681071838f"],
+        ["Jorge De Los Rios Murillo", "0b8f9941-ae54-4d9d-aed7-25ffdca90eec"],
+        ["Reinel Ortiz Mendoza", "393a422b-0c0e-4c18-a807-d1330d2a356a"]
+      ]
+    },
+    {
+      "header": "DING Team",
+      "manager": "Michel Meneses",
+      "slack_label": "DING",
+      "projects": ["CLCT", "DS"],
+      "devs": [
+        ["DING - Jaider Martinez", "75dfeaf8-0e59-48ad-8a1b-7016b6738bcd"],
+        ["DING - Rudy Julio", "af2f6f73-ceeb-46fa-b272-a76d2e888dbc"],
+        ["DING - Xenia Cadena Diaz", "b2dc5d74-0c67-4bb9-ae31-084406bf6cd7"]
+      ]
+    }
+  ]
+}
